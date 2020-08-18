@@ -9,9 +9,7 @@ module.exports = {
     es6: true,
     node: true,
   },
-  parserOptions: {
-
-  },
+  parserOptions: {},
   rules: {
     'linebreak-style': 0,
     'implicit-arrow-linebreak': 0,

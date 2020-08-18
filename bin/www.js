@@ -4,4 +4,4 @@
  * app start
  */
 
-console.log('blog-node')
+console.log('blog-node');

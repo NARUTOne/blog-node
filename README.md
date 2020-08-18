@@ -1,6 +1,6 @@
 # blog-node
 
-博客的node服务相关
+博客的 node 服务相关
 
 ## TODO
 
