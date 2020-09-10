@@ -28,4 +28,16 @@
  *      ┗┻┛   ┗┻┛
  */
 
-console.log('blog-node');
+const express = require('express');
+// const createError = require('http-errors');
+// const path = require('path');
+// const cookieParser = require('cookie-parser');
+// const logger = require('morgan');
+// const session = require('express-session');
+
+// import 等语法要用到 babel 支持
+require('babel-register');
+
+const app = express();
+
+module.exports = app;
